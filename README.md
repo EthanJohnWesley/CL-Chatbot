@@ -20,4 +20,4 @@ At this time, the chat room can only run on the same Internet Connection. Check 
 Thanks and Enjoy!!!
 
 
-DISCLAIMER: This project was heavily inspired by and assisted www.thepythoncode.com
+DISCLAIMER: This project was heavily inspired and assisted by www.thepythoncode.com
