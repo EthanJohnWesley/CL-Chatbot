@@ -1,4 +1,5 @@
-# CL-Chatbot
+# Command Line Chatroom
+
 This a chatbot that allows users over the same wireless connection to communicate through their Command Line. This project utilizes socket programming and multi-threading to allow for multiple users to ping the server script at a given time. The Server script uses threading, the sys socket library, and OOP principles to listen and send out all messages while the client script utilizes the same socket library to listen to all messages from the server and to send messages directly to the server.
 
 Necessary tools:
