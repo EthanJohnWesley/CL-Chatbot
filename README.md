@@ -4,6 +4,7 @@ This a chatbot that allows users over the same wireless connection to communicat
 
 Necessary tools:
   - Any machine with capability to run Python code
+
 How-To
 The server script needs to be run on any given device within the wireless network and the client script must be run on any amount of user machines to create a chatroom experience.
 
