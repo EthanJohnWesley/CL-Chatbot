@@ -5,7 +5,8 @@ This a chatbot that allows users over the same wireless connection to communicat
 Necessary tools:
   - Any machine with capability to run Python code
 
-How-To
+How-To:
+
 The server script needs to be run on any given device within the wireless network and the client script must be run on any amount of user machines to create a chatroom experience.
 
 Once the scripts are properly running, clients can type any message into their terminal and it will be sent out to all others on the chatroon network. Once users are finished with the chat room, they can simply enter 'q' to quit the script and run the client script again to re-enter.
